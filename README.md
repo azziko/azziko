@@ -3,7 +3,7 @@
 <img align="right" src="./img/gopoke.png"/>
 
 ### Drop me a message: 
-<img href="https://t.me/shariplov" src="./img/tg-icon.png" width="30px"/>
+[<img src="./img/tg-icon.png" width="30px"/>][https://t.me/shariplov]
 
 ### Human spoken languages:
 - Russian: native;
