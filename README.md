@@ -1,9 +1,8 @@
 # Greetings, traveler 👋 
 
-<img align="right"src="./img/gopoke.png"/>
+<img align="right" src="./img/gopoke.png"/>
 
-### Drop me a message:
-<img align="right" src="./img/tg-icon.png" width="30px"/>
+### Drop me a message: <img src="./img/tg-icon.png" width="30px"/>
 
 ### Human spoken languages:
 - Russian: native;
