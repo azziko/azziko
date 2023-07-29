@@ -23,4 +23,4 @@
 
 <br />
 
-[telegram]: https://t.me/shariplov
+[telegram]: https://t.me/shareplov
