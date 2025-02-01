@@ -10,6 +10,7 @@
 - English: C1;
 - Czech: C1;
 - Spanish (No certificate of language, but I can communicate and comprehend fluently enough);
+- Ukrainian (No certificate of language, but I can communicate and comprehend fluently enough);
 <br />
 
 [telegram]: https://t.me/shareplov
