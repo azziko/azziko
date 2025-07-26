@@ -11,6 +11,7 @@
 - Czech: C1;
 - Spanish (No certificate of language, but I can communicate and comprehend fluently enough);
 - Ukrainian (No certificate of language, but I can communicate and comprehend fluently enough);
+- Italian (Elementary)
 <br />
 
 [telegram]: https://t.me/shareplov
